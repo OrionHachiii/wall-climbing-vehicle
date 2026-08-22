@@ -1,0 +1,15 @@
+item,component,specification,quantity,unit_price_usd,subtotal_usd
+1,DC gear motor and wheel,"TT yellow motor, 3-6 V, with rubber wheel",4,3.75,15.00
+2,Brushed motor ESC,"YoungRC brushed ESC, 30 A, controls two motors",2,7.40,14.80
+3,Brushless motor for fan,"2204 / 2100-2300 KV class",1,10.00,10.00
+4,Brushless ESC for fan,30 A BLHeli ESC,1,10.00,10.00
+5,Propeller,6040 / 6040x3 propeller,1,1.50,1.50
+6,LiPo battery for drivetrain,2S 7.4 V 450-460 mAh,1,8.00,8.00
+7,LiPo battery for fan,4S 14.8 V 1100-1300 mAh,1,11.30,11.30
+8,RC receiver,"FlySky FS-iA6B, 2.4 GHz",1,23.80,23.80
+9,Chassis plate,"Laser-cut acrylic, 3 mm",1,5.00,5.00
+10,Fan shroud,3D-printed PLA,1,4.00,4.00
+11,Fasteners,"M3 screws, nuts, and washers",,3.00,3.00
+12,Zip ties,Nylon zip ties used for motor mounting,8,0.10,0.80
+13,Wiring and connectors,"JST, XT60, and servo cables",,3.00,3.00
+TOTAL,,,,,110.20
