@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Fan-Adhesion Wall-Climbing Vehicle"
+type: dataset
+authors:
+  - family-names: "Long"
+    given-names: "Zesen"
+repository-code: "https://github.com/OrionHachiii/wall-climbing-vehicle"
+url: "https://github.com/OrionHachiii/wall-climbing-vehicle"
+version: "1.0.0"
+date-released: "2025-12-11"
+license: "CERN-OHL-S-2.0"
+keywords:
+  - "open hardware"
+  - "wall-climbing robot"
+  - "fan adhesion"
+  - "CAD"
+  - "engineering education"
