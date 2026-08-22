@@ -20,6 +20,12 @@ This project explores a compact, remotely controlled vehicle that can drive on h
 
 The prototype was developed through CAD modeling, friction and thrust analysis, laser cutting, 3D printing, assembly, and iterative testing. It was completed as an ENGR 7 final project in Fall 2025.
 
+## Course context
+
+**ENGR 7 — Introduction to Engineering Methods** is a 4-unit Irvine Valley College course. IVC's official catalog describes it as a practical course for engineering and applied-science students centered on modeling and designing a physical system. The course develops experience in structural analysis, small-component manufacturing, testing, teamwork, planning, scheduling, project management, and implementation of a final design. Projects may also involve data collection, design reviews, analysis, technical reports, and group construction.
+
+This wall-climbing vehicle is the student's final-project response to that hands-on engineering-methods context; it is not an official IVC publication. Course information is summarized from the official [IVC 2022–2023 catalog](https://www.ivc.edu/sites/default/files/catalog/archive/ivc-2022-23-catalog.pdf) and the current [IVC Drafting Technology and Engineering program map](https://www.ivc.edu/idea/drafting).
+
 ## Project results
 
 | Metric | Result |
@@ -94,6 +100,18 @@ This is an educational prototype, not a certified product. It uses high-speed ro
 ## Academic-material boundary
 
 This repository contains the student's own report, design work, data presentation, photographs, and build documentation. Course handouts, assignment sheets, grading materials, exams, and instructor-provided source files are intentionally excluded. Figures labeled “Instructor Baseline” in the report are retained only to document the student's design-evolution context and are excluded from the repository's hardware-license grant.
+
+## Acknowledgements
+
+This project benefited from the instruction, technical guidance, facilities, and collaborative learning environment provided during ENGR 7:
+
+- **Professor Matthew Wolken** — course guidance, design feedback, technical instruction, material recommendations, project direction, and clear expectations.
+- **Professor Brett McKim** — instruction in design-model making and insights into fabrication and prototyping methods.
+- **Marlowe Patterson**, Laboratory Technician at the Irvine Valley College School of Integrated Design, Engineering, and Automation (IDEA) — assistance with 3D printing, laser cutting, lab equipment, and a safe prototyping environment.
+- **IVC IDEA Department** — access to fabrication facilities, tools, materials, and workspace used for rapid prototyping and testing.
+- **ENGR 7 classmates** — a learning environment that encouraged hands-on experimentation, iteration, and practical engineering problem-solving.
+
+These acknowledgements are transcribed and condensed from the project's original presentation. Recognition does not imply institutional or individual endorsement of this repository.
 
 ## Licensing
 
